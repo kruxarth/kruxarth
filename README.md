@@ -2,11 +2,9 @@
 
 CSE @ GECA (Chhatrapati Sambhajinagar). Full-stack, mostly TypeScript, Next.js, Go, and Python.
 
-Building **[Stadion](https://stadion.dev)** — C-Cube's campus leaderboard that syncs GitHub, LeetCode, and Codeforces into one scoreboard.
+Building **[Stadion](https://stadion.dev)**, C-Cube's campus leaderboard that syncs GitHub, LeetCode, and Codeforces into one scoreboard.
 
-Open to SDE internships.
-
-## Things I'd point a recruiter at
+## Projects
 
 - **[Stadion](https://github.com/kruxarth/stadion)** — Next.js, Drizzle, Postgres, Clerk. [Live](https://stadion.dev)
 - **[ClearConsent](https://github.com/kruxarth/T07_JoJo)** — Upload a loan/T&C PDF, get a risk score, a plain-language rewrite, and a comprehension quiz. [Live](https://t07-jo-jo.vercel.app)
