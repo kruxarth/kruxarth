@@ -47,11 +47,3 @@ A Redis subset in Go: RESP, AOF/RDB persistence, eviction.
 ## Writing
 
 - [My Current Setup](https://www.kruxarth.dev/writing/my-current-setup)
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kruxarth/kruxarth/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kruxarth/kruxarth/output/snake.svg" />
-    <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/kruxarth/kruxarth/output/snake.svg" />
-  </picture>
-</p>
