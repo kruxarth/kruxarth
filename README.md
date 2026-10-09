@@ -13,31 +13,45 @@ I'm a 2028 CSE undergraduate at Government College of Engineering, CSN, Maharash
 ## Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,go,ts,python,react,nextjs,nodejs,tailwind,postgres,mongodb,redis,prisma,docker,kubernetes,linux,git,githubactions,vercel,bun,supabase&perline=10" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=cpp,go,ts,python,kotlin,react,nextjs,nodejs,tailwind,postgres,mongodb,redis,prisma,docker,kubernetes,linux,git,githubactions,vercel,bun,supabase&perline=11" alt="Tech stack" />
 </p>
 
 ## Projects
 
+**[DMGram](https://dmgram-web.vercel.app)** · 2026  
+Instagram for your friends, not the algorithm. Stories, posts and DMs. No Reels, no Explore, no ads. Built so your account stays safe.  
+`Kotlin` `Android` · [download APK](https://github.com/kruxarth/DMgram/releases/latest) · [repo](https://github.com/kruxarth/DMgram)
+
+**[board-house](https://board-house.vercel.app)** · 2026  
+Ten tables, closed doors, one day. Up to ten people draw on one board and talk in the same tab. No accounts, and every table is wiped after 24 hours.  
+`TypeScript` · [repo](https://github.com/kruxarth/boardhouse)
+
+**[TrackFit](https://github.com/kruxarth/TrackFit/releases)** · 2026  
+A gym log that stays on your phone. Log days, sets and rest, and track progress. No account, no cloud, no ads.  
+`TypeScript` `Android` · [download APK](https://github.com/kruxarth/TrackFit/releases) · [repo](https://github.com/kruxarth/TrackFit)
+
 **[Stadion](https://stadion.dev)** · 2026  
-C-Cube's competitive coding leaderboard for college developers. Connect GitHub, LeetCode, and Codeforces, track building and contest activity, challenge friends head-to-head, and collect badges.  
+C-Cube's competitive coding leaderboard. Connect GitHub, LeetCode and Codeforces, challenge friends head-to-head and collect badges.  
 `TypeScript` `Next.js` `Drizzle` `Postgres` · [repo](https://github.com/kruxarth/stadion)
 
-**[ClearConsent](https://t07-jo-jo.vercel.app)**  
-Upload a loan or T&C PDF, get a risk score, a plain-language rewrite, and a comprehension quiz.  
-`TypeScript` `Next.js` `Groq` · [repo](https://github.com/kruxarth/T07_JoJo)
-
-**[LCA Circularity Platform](https://github.com/kruxarth/SIH69_K)** · SIH 2025  
-Wizard + process canvas for mining/metals life-cycle assessment (PS 25069, Ministry of Mines).  
-`React` `Vite` `Express` `MongoDB`
-
-**[GECA Study Bot](https://t.me/GECABooks_bot)**  
-Campus Telegram bot for notes and books.  
-`Python` `Supabase` · [repo](https://github.com/kruxarth/GECA-telegram-bot)
+**[private_chat](https://redis-chat-app-kru.vercel.app)**  
+Two-person chat rooms that self-destruct after 10 minutes. No accounts, no history.  
+`Next.js` `Upstash Redis` `SSE` · [repo](https://github.com/kruxarth/redis-chat-app)
 
 **[go-redis](https://github.com/kruxarth/golang-redis)**  
-A Redis subset in Go: RESP, AOF/RDB, eviction.  
+A Redis subset in Go: RESP, AOF/RDB persistence, eviction.  
 `Go`
+
+**Also:** [GECA Study Bot](https://t.me/GECABooks_bot) (campus Telegram bot)
 
 ## Writing
 
 - [My Current Setup](https://www.kruxarth.dev/writing/my-current-setup)
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kruxarth/kruxarth/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kruxarth/kruxarth/output/snake.svg" />
+    <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/kruxarth/kruxarth/output/snake.svg" />
+  </picture>
+</p>
